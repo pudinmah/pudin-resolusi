@@ -4,7 +4,7 @@ RENCANA KONTENT WPU
  *ES6
  *Framework Javascript
   ^Angular
-  ^React
+  ^ember
   ^Vue
   ^React
 - Struktur Data Dasar
